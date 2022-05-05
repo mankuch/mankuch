@@ -1,6 +1,4 @@
-👋 Hi, I’m @mankuch.
-👀 I’m interested in Physics and Machine Learning.
-🌱 I’m currently learning about Multi-task Bayesian Optimization.
+Hi, I’m @mankuch.
 
 <!---
 mankuch/mankuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
